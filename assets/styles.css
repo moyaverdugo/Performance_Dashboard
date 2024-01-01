@@ -1,0 +1,33 @@
+.ag-theme-alpine.ag-theme-blue {
+    --ag-odd-row-background-color: rgb(242, 242, 242);
+    --ag-header-background-color: #272E35;
+    --ag-header-cell-hover-background-color: #7A7A7A;
+    --ag-header-foreground-color: white;
+}
+
+.ag-theme-alpine.ag-theme-blue .ag-pinned-left-cols-container,
+.ag-theme-busybee .ag-pinned-right-cols-container {
+    --ag-odd-row-background-color: rgb(215, 215, 215);
+    --ag-background-color: rgb(230, 230, 230);
+}
+
+.ag-theme-alpine.ag-theme-blue_compact {
+    --ag-header-background-color: #272E35;
+    --ag-header-cell-hover-background-color: #7A7A7A;
+    --ag-header-foreground-color: white;
+    --ag-grid-size: 3px;
+}
+
+.ag-theme-alpine.ag-theme-blue_compact .ag-pinned-left-cols-container,
+.ag-theme-busybee .ag-pinned-right-cols-container {
+    --ag-odd-row-background-color: rgb(215, 215, 215);
+    --ag-background-color: rgb(230, 230, 230);
+}
+
+.ag-theme-alpine.blue_compact.font {
+    --ag-font-size: 10px;
+}
+
+.ag-theme-alpine.ag-theme-blue_compact .ag-header-row {
+    height: 30px; /* Adjust the height as needed */
+}
