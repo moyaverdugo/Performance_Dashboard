@@ -1492,7 +1492,7 @@ import dash_html_components as html
 # Initialise the App
 
 app = Dash(__name__)
-
+server = app.server
 
 # Title
 title = dmc.Title(children = 'Performance Analysis Framework', order = 3, style = {'font-family':'Fort-ExtraBold, sans-serif', 'text-align':'center', 'color' :'#414B56'})
