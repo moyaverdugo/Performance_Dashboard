@@ -15,7 +15,6 @@ import pandas as pd
 pd.set_option('display.max_columns', 1000)
 
 #Visualization
-import matplotlib.pyplot as plt
 import plotly as pl
 import plotly.express as px
 import plotly.graph_objects as go
