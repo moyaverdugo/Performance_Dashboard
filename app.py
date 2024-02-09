@@ -1718,14 +1718,13 @@ f1_prev_pre_ini_date
 f1_prev_post_end_date
 
 
-# In[ ]:
+# In[86]:
 
 
 # Import packages
 import time
 import dash
 from dash import Dash, dcc, html, dash_table, no_update
-import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import dash_ag_grid as dag
 import dash_mantine_components as dmc
@@ -1733,7 +1732,7 @@ import dash_html_components as html
 
 # Initialise the App
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.MATERIA])
+app = Dash(__name__)
 
 
 # Title
