@@ -1,6 +1,6 @@
 Performance Measurement
 
-website: https://performance-v09.onrender.com/
+![Screen Shot 2024-02-09 at 6 32 52 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/bf41fa20-051d-40be-90ae-98c8096fa1b6)
 
 Notebooks structure:
 
