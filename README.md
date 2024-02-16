@@ -1,6 +1,11 @@
 Performance Measurement
+![Screen Shot 2024-02-15 at 8 37 24 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/0477eda4-aeeb-42bd-be1f-8591222689f5)
+![Screen Shot 2024-02-15 at 8 34 45 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/ba86100b-5a9d-4456-af28-ae0d60a8793e)
+![Screen Shot 2024-02-15 at 8 35 06 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/dbbd37c1-14f2-42a1-8658-62d75087f9cd)
+![Screen Shot 2024-02-15 at 8 35 57 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/6902ad3b-0a4d-4227-b645-e0f630f5d235)
+![Screen Shot 2024-02-15 at 8 37 10 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/3961ad86-94ca-49d5-b435-4de356e0df1f)
 
-![Screen Shot 2024-02-09 at 6 32 52 PM](https://github.com/moyaverdugo/Performance_Dashboard/assets/107212424/bf41fa20-051d-40be-90ae-98c8096fa1b6)
+
 
 Notebooks structure:
 
